@@ -26,9 +26,6 @@ frontend/.env.local
 frontend/.env*.local
 !frontend/.env.example
 
-# Vercel
-.vercel
-
 # OS metadata
 .DS_Store
 Thumbs.db
